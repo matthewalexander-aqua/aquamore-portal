@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T04:55:29.871Z",
+  "last_updated": "2026-05-22T04:58:14.612Z",
   "sync_status": "ok",
   "rms": [
     {
@@ -734,11 +734,20 @@
       "source": "hubspot"
     }
   ],
-  "contacts": [],
+  "contacts": [
+    {
+      "id": "325607904721",
+      "name": "Simon Loulach",
+      "email": "simon@gen2build.com.au",
+      "phone": "+61421309988",
+      "company": "Gen2Build",
+      "rm": "Matthew Alexander"
+    }
+  ],
   "stats": {
     "total_deals": 2,
     "total_activities": 87,
-    "total_contacts": 0,
+    "total_contacts": 1,
     "rms_synced": 1
   }
 }
