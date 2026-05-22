@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T04:58:14.612Z",
+  "last_updated": "2026-05-22T04:59:20.302Z",
   "sync_status": "ok",
   "rms": [
     {
@@ -23,6 +23,20 @@
     },
     {
       "id": 90002,
+      "borrower": "002377-111 - Cape Three Points Investments Pty Ltd  ATF Cape 3 Point Unit Trust",
+      "amount": "2925000",
+      "status": "submitted",
+      "bdm": "Matthew Alexander",
+      "broker": "",
+      "loanType": "default",
+      "refNo": "HS-270805208514",
+      "notes": "",
+      "createdAt": "2026-05-22",
+      "updatedAt": "2026-05-22",
+      "source": "hubspot"
+    },
+    {
+      "id": 90003,
       "borrower": "002405-111 | EDGLO PTY LTD",
       "amount": "0",
       "status": "quote-sent",
@@ -745,7 +759,7 @@
     }
   ],
   "stats": {
-    "total_deals": 2,
+    "total_deals": 3,
     "total_activities": 87,
     "total_contacts": 1,
     "rms_synced": 1
