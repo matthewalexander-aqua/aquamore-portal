@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T07:35:17.899Z",
+  "last_updated": "2026-05-22T07:36:21.036Z",
   "sync_status": "ok",
   "rms": [
     {
@@ -134,7 +134,720 @@
       "source": "hubspot"
     }
   ],
-  "activity_feed": [],
+  "activity_feed": [
+    {
+      "type": "meeting",
+      "date": "2026-05-22",
+      "desc": "Meeting completed",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2026-05-22",
+      "desc": "RE: 13 York St Oatlands NSW 2117 - Valuation Quote & Next Steps",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "call",
+      "date": "2026-05-22",
+      "desc": "Call with darren.mcleod@aquamore.com.au",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "call",
+      "date": "2026-05-22",
+      "desc": "Call with Michal Fort-Williams",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "meeting",
+      "date": "2026-05-22",
+      "desc": "Meeting with Geoff",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2026-05-22",
+      "desc": "Email sent",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2026-05-22",
+      "desc": "13a York St Oatlands",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "call",
+      "date": "2026-05-22",
+      "desc": "Call with aaron@elliotfinance.com.au",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "call",
+      "date": "2026-05-22",
+      "desc": "Call with david@pmadvisors.com.au",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "meeting",
+      "date": "2026-04-08",
+      "desc": "Aquamore x Connective",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "meeting",
+      "date": "2025-10-10",
+      "desc": "House of Finance - Low Doc Lender PD Session ",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "meeting",
+      "date": "2025-09-16",
+      "desc": "Matt x Fabs catch up",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "meeting",
+      "date": "2025-07-22",
+      "desc": "Medical Finance Group x Aquamore Lunch",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "meeting",
+      "date": "2025-07-21",
+      "desc": "Breakthru Home Loans x Aquamore",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-29",
+      "desc": "RE: First App! - please review :)",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-29",
+      "desc": "RE: 941 Range Road Glenquarry, NSW 2576",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-29",
+      "desc": "RE: 941 Range Road Glenquarry, NSW 2576",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-29",
+      "desc": "RE: First App! - please review :)",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-29",
+      "desc": "RE: 001044-111 | BABET, CHRISTIAN - Formal Credit Submission",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-28",
+      "desc": "RE: 941 Range Road Glenquarry, NSW 2576",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-28",
+      "desc": "RE: First App! - please review :)",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-28",
+      "desc": "RE: 941 Range Road Glenquarry, NSW 2576",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-28",
+      "desc": "Aquamore Products",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-28",
+      "desc": "FW: Quote: Property Valuation quote for Arlington, 941 Range Road, Glenquarry, NSW, 2576",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-28",
+      "desc": "RE: First App! - please review :)",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-28",
+      "desc": "Scenario",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-28",
+      "desc": "RE: 941 Range Road Glenquarry, NSW 2576",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-28",
+      "desc": "RE: Broker concern",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-28",
+      "desc": "Broker concern",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-28",
+      "desc": "Matthew @Aquamore",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-27",
+      "desc": "RE: 941 Range Road Glenquarry, NSW 2576",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-27",
+      "desc": "RE: Addresss",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-27",
+      "desc": "First App! - please review :)",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-27",
+      "desc": "RE: Accreditation",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-27",
+      "desc": "Beaumont Scenario",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-27",
+      "desc": "RE: Addresss",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-26",
+      "desc": "RE: 941 Range Road Glenquarry, NSW 2576",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-26",
+      "desc": "Accreditation",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-26",
+      "desc": "FW: Accreditation",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-26",
+      "desc": "Aquamore BDM",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-26",
+      "desc": "RE: 941 Range Road Glenquarry, NSW 2576",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "task",
+      "date": "2025-05-26",
+      "desc": "Follow up deal",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-26",
+      "desc": "RE: FW: 163-173 Mcevoy Street Alexandaria NSW 2015",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-26",
+      "desc": "Aquamore BDM",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-26",
+      "desc": "BDM Commitments - WE 30/05",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-26",
+      "desc": "Aquamore BDM",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-26",
+      "desc": "Aquamore Rates + Niche Sheet",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-26",
+      "desc": "RE: 941 Range Road Glenquarry, NSW 2576",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "meeting",
+      "date": "2025-05-26",
+      "desc": "Intro to Aquamore Finance",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-25",
+      "desc": "RE: Blakehurst NSW 2221 lending deal for Mr Jielong Zhang",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-23",
+      "desc": "RE: 941 Range Road Glenquarry, NSW 2576",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-23",
+      "desc": "RE: FW: Blakehurst NSW 2221 lending deal for Mr Jielong Zhang",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-23",
+      "desc": "Your new Aquamore BDM",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-23",
+      "desc": "RE: Accountant dec examination for training",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-23",
+      "desc": "RE: FW: 163-173 Mcevoy Street Alexandaria NSW 2015",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-23",
+      "desc": "Val Quote - 941 Range Road Glenquarry, NSW 2576",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-23",
+      "desc": "RE: Blakehurst NSW 2221 lending deal for Mr Jielong Zhang",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "call",
+      "date": "2025-05-23",
+      "desc": "Call with Cliff Ferrer",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "task",
+      "date": "2025-05-23",
+      "desc": "Follow up with Cliff Ferrer",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "call",
+      "date": "2025-05-23",
+      "desc": "Call with Josip Blazevic",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "task",
+      "date": "2025-05-23",
+      "desc": "Follow up with Josip Blazevic",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-23",
+      "desc": "Broker accred",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-23",
+      "desc": "RE: FW: 163-173 Mcevoy Street Alexandaria NSW 2015",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-22",
+      "desc": "Your new Aquamore BDM",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "task",
+      "date": "2025-05-21",
+      "desc": "Follow-up Re:Call on Peter Ha",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "call",
+      "date": "2025-05-21",
+      "desc": "Call with Julie Hemmons",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-21",
+      "desc": "Your new Aquamore BDM",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-21",
+      "desc": "Your new Aquamore BDM",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-21",
+      "desc": "Your new Aquamore BDM",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-21",
+      "desc": "Your new Aquamore BDM",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "call",
+      "date": "2025-05-21",
+      "desc": "Call with Joseph Birmingham",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "call",
+      "date": "2025-05-21",
+      "desc": "Call with Peter Hollingworth",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "call",
+      "date": "2025-05-21",
+      "desc": "Call with Michael Leahy",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "call",
+      "date": "2025-05-21",
+      "desc": "Call with Stephen Michaels",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "task",
+      "date": "2025-05-21",
+      "desc": "Follow-up Re:Call on Stephen Michaels",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "call",
+      "date": "2025-05-21",
+      "desc": "Call with Peter Ha",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "task",
+      "date": "2025-05-21",
+      "desc": "Follow-up Re:Call on Julie Hemmons",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-20",
+      "desc": "Email sent",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-20",
+      "desc": "RE: New Deal: BCS000212 - Purchase - 55 Bass Road, Bass VIC",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-20",
+      "desc": "RE: RnD Tax accountants",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-15",
+      "desc": "hi",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "note",
+      "date": "2025-05-15",
+      "desc": "Unable to proceed due to security property being leasehold",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "call",
+      "date": "2025-05-14",
+      "desc": "Call with Ben Leyshon",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "call",
+      "date": "2025-05-14",
+      "desc": "Call with unknown contact",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-14",
+      "desc": "Send your first tracked email!",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "task",
+      "date": "2025-05-14",
+      "desc": "Follow up on Deal 2",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "call",
+      "date": "2025-05-14",
+      "desc": "Call with David Traynor",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "task",
+      "date": "2025-05-14",
+      "desc": "Follow up on Snowy Hydro",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2025-05-14",
+      "desc": "Should I stay or should I go?",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    }
+  ],
   "contacts": [
     {
       "id": "325473480130",
@@ -179,7 +892,7 @@
   ],
   "stats": {
     "total_deals": 9,
-    "total_activities": 0,
+    "total_activities": 89,
     "total_contacts": 5,
     "rms_synced": 1
   }
