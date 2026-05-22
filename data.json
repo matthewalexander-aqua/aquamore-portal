@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T00:28:05.223Z",
+  "last_updated": "2026-05-22T01:03:00.782Z",
   "sync_status": "ok",
   "rms": [
     {
@@ -76,9 +76,31 @@
       "createdAt": "2025-05-23",
       "updatedAt": "2026-03-02",
       "source": "hubspot"
+    },
+    {
+      "id": 90006,
+      "borrower": "002405-111 | EDGLO PTY LTD",
+      "amount": "0",
+      "status": "quote-sent",
+      "bdm": "Matthew Alexander",
+      "broker": "",
+      "loanType": "default",
+      "refNo": "HS-270983561714",
+      "notes": "",
+      "createdAt": "2026-05-22",
+      "updatedAt": "2026-05-22",
+      "source": "hubspot"
     }
   ],
   "activity_feed": [
+    {
+      "type": "call",
+      "date": "2026-05-22",
+      "desc": "Call with Michal Fort-Williams",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
     {
       "type": "meeting",
       "date": "2026-04-08",
@@ -4803,8 +4825,8 @@
     }
   ],
   "stats": {
-    "total_deals": 5,
-    "total_activities": 80,
+    "total_deals": 6,
+    "total_activities": 81,
     "total_contacts": 510,
     "rms_synced": 1
   }
