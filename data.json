@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T05:28:22.390Z",
+  "last_updated": "2026-05-22T05:29:15.868Z",
   "sync_status": "ok",
   "rms": [
     {
@@ -79,6 +79,20 @@
     },
     {
       "id": 90006,
+      "borrower": "002420-111 | KAYJO INVESTMENTS PTY LTD",
+      "amount": "401500",
+      "status": "quote-sent",
+      "bdm": "Matthew Alexander",
+      "broker": "",
+      "loanType": "default",
+      "refNo": "HS-270984304116",
+      "notes": "",
+      "createdAt": "2026-05-22",
+      "updatedAt": "2026-05-22",
+      "source": "hubspot"
+    },
+    {
+      "id": 90007,
       "borrower": "002404-111 | VHCF DARLING PROPCO PTY LTD",
       "amount": "1612500",
       "status": "quote-sent",
@@ -824,6 +838,14 @@
       "rm": "Matthew Alexander"
     },
     {
+      "id": "325607183810",
+      "name": "Peter Campbell",
+      "email": "peter.campbell@moneyquest.com.au",
+      "phone": "+61248111548",
+      "company": "",
+      "rm": "Matthew Alexander"
+    },
+    {
       "id": "325607904721",
       "name": "Simon Loulach",
       "email": "simon@gen2build.com.au",
@@ -841,9 +863,9 @@
     }
   ],
   "stats": {
-    "total_deals": 6,
+    "total_deals": 7,
     "total_activities": 89,
-    "total_contacts": 4,
+    "total_contacts": 5,
     "rms_synced": 1
   }
 }
