@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T05:27:19.085Z",
+  "last_updated": "2026-05-22T05:28:22.390Z",
   "sync_status": "ok",
   "rms": [
     {
@@ -9,20 +9,6 @@
   "pipeline": [
     {
       "id": 90001,
-      "borrower": "Geoff Deal",
-      "amount": "1000000",
-      "status": "quote-sent",
-      "bdm": "Matthew Alexander",
-      "broker": "",
-      "loanType": "default",
-      "refNo": "HS-270805195252",
-      "notes": "",
-      "createdAt": "2026-05-22",
-      "updatedAt": "2026-05-22",
-      "source": "hubspot"
-    },
-    {
-      "id": 90002,
       "borrower": "002377-111 - Cape Three Points Investments Pty Ltd  ATF Cape 3 Point Unit Trust",
       "amount": "2925000",
       "status": "submitted",
@@ -36,7 +22,7 @@
       "source": "hubspot"
     },
     {
-      "id": 90003,
+      "id": 90002,
       "borrower": "002403-111 | VHCF DARLING PROPCO PTY LTD",
       "amount": "1085000",
       "status": "quote-sent",
@@ -50,7 +36,7 @@
       "source": "hubspot"
     },
     {
-      "id": 90004,
+      "id": 90003,
       "borrower": "002377-111 - Cape Three Points Investments Pty Ltd  ATF Cape 3 Point Unit Trust",
       "amount": "2925000",
       "status": "quote-sent",
@@ -64,7 +50,7 @@
       "source": "hubspot"
     },
     {
-      "id": 90005,
+      "id": 90004,
       "borrower": "002401-111 | BABY BLUE HOLDINGS PTY LTD",
       "amount": "1320000",
       "status": "quote-sent",
@@ -78,7 +64,7 @@
       "source": "hubspot"
     },
     {
-      "id": 90006,
+      "id": 90005,
       "borrower": "002405-111 | EDGLO PTY LTD",
       "amount": "0",
       "status": "quote-sent",
@@ -92,7 +78,7 @@
       "source": "hubspot"
     },
     {
-      "id": 90007,
+      "id": 90006,
       "borrower": "002404-111 | VHCF DARLING PROPCO PTY LTD",
       "amount": "1612500",
       "status": "quote-sent",
@@ -855,7 +841,7 @@
     }
   ],
   "stats": {
-    "total_deals": 7,
+    "total_deals": 6,
     "total_activities": 89,
     "total_contacts": 4,
     "rms_synced": 1
