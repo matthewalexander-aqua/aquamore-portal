@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T05:26:17.115Z",
+  "last_updated": "2026-05-22T05:27:19.085Z",
   "sync_status": "ok",
   "rms": [
     {
@@ -822,6 +822,14 @@
   ],
   "contacts": [
     {
+      "id": "325473480130",
+      "name": "James Scobie",
+      "email": "james@walmercastlefinance.com.au",
+      "phone": "+61475183894",
+      "company": "",
+      "rm": "Matthew Alexander"
+    },
+    {
       "id": "325606463957",
       "name": "Jay Mertens",
       "email": "jay@moncurcap.com",
@@ -849,7 +857,7 @@
   "stats": {
     "total_deals": 7,
     "total_activities": 89,
-    "total_contacts": 3,
+    "total_contacts": 4,
     "rms_synced": 1
   }
 }
