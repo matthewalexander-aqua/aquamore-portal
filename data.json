@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T05:52:13.699Z",
+  "last_updated": "2026-05-22T05:53:14.497Z",
   "sync_status": "ok",
   "rms": [
     {
@@ -79,6 +79,20 @@
     },
     {
       "id": 90006,
+      "borrower": "Test",
+      "amount": "100000",
+      "status": "quote-sent",
+      "bdm": "Matthew Alexander",
+      "broker": "",
+      "loanType": "default",
+      "refNo": "HS-270926568899",
+      "notes": "",
+      "createdAt": "2026-05-22",
+      "updatedAt": "2026-05-22",
+      "source": "hubspot"
+    },
+    {
+      "id": 90007,
       "borrower": "002405-111 | EDGLO PTY LTD",
       "amount": "0",
       "status": "quote-sent",
@@ -92,7 +106,7 @@
       "source": "hubspot"
     },
     {
-      "id": 90007,
+      "id": 90008,
       "borrower": "002420-111 | KAYJO INVESTMENTS PTY LTD",
       "amount": "401500",
       "status": "quote-sent",
@@ -106,7 +120,7 @@
       "source": "hubspot"
     },
     {
-      "id": 90008,
+      "id": 90009,
       "borrower": "002404-111 | VHCF DARLING PROPCO PTY LTD",
       "amount": "1612500",
       "status": "quote-sent",
@@ -877,7 +891,7 @@
     }
   ],
   "stats": {
-    "total_deals": 8,
+    "total_deals": 9,
     "total_activities": 89,
     "total_contacts": 5,
     "rms_synced": 1
