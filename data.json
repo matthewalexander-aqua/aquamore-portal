@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T05:22:17.511Z",
+  "last_updated": "2026-05-22T05:23:13.530Z",
   "sync_status": "ok",
   "rms": [
     {
@@ -786,12 +786,20 @@
       "phone": "+61421309988",
       "company": "Gen2Build",
       "rm": "Matthew Alexander"
+    },
+    {
+      "id": "325607905766",
+      "name": "Matthew Jacbos",
+      "email": "matt.jacobs@purecapital.com.au",
+      "phone": "+61422992069",
+      "company": "",
+      "rm": "Matthew Alexander"
     }
   ],
   "stats": {
     "total_deals": 4,
     "total_activities": 89,
-    "total_contacts": 1,
+    "total_contacts": 2,
     "rms_synced": 1
   }
 }
