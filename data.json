@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T05:09:15.960Z",
+  "last_updated": "2026-05-22T05:10:25.920Z",
   "sync_status": "ok",
   "rms": [
     {
@@ -95,6 +95,14 @@
       "type": "email",
       "date": "2026-05-22",
       "desc": "Email sent",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2026-05-22",
+      "desc": "13a York St Oatlands",
       "broker": "",
       "bdm": "Matthew Alexander",
       "source": "hubspot"
@@ -768,7 +776,7 @@
   ],
   "stats": {
     "total_deals": 3,
-    "total_activities": 88,
+    "total_activities": 89,
     "total_contacts": 1,
     "rms_synced": 1
   }
