@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T05:08:18.643Z",
+  "last_updated": "2026-05-22T05:09:15.960Z",
   "sync_status": "ok",
   "rms": [
     {
@@ -55,6 +55,14 @@
       "type": "meeting",
       "date": "2026-05-22",
       "desc": "Meeting completed",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2026-05-22",
+      "desc": "RE: 13 York St Oatlands NSW 2117 - Valuation Quote & Next Steps",
       "broker": "",
       "bdm": "Matthew Alexander",
       "source": "hubspot"
@@ -760,7 +768,7 @@
   ],
   "stats": {
     "total_deals": 3,
-    "total_activities": 87,
+    "total_activities": 88,
     "total_contacts": 1,
     "rms_synced": 1
   }
