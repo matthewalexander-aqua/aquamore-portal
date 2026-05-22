@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T01:51:24.620Z",
+  "last_updated": "2026-05-22T02:00:29.637Z",
   "sync_status": "ok",
   "rms": [
     {
@@ -79,6 +79,20 @@
     },
     {
       "id": 90006,
+      "borrower": "Geoff Deal",
+      "amount": "1000000",
+      "status": "quote-sent",
+      "bdm": "Matthew Alexander",
+      "broker": "",
+      "loanType": "default",
+      "refNo": "HS-270805195252",
+      "notes": "",
+      "createdAt": "2026-05-22",
+      "updatedAt": "2026-05-22",
+      "source": "hubspot"
+    },
+    {
+      "id": 90007,
       "borrower": "002405-111 | EDGLO PTY LTD",
       "amount": "0",
       "status": "quote-sent",
@@ -4873,7 +4887,7 @@
     }
   ],
   "stats": {
-    "total_deals": 6,
+    "total_deals": 7,
     "total_activities": 87,
     "total_contacts": 510,
     "rms_synced": 1
