@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T05:23:13.530Z",
+  "last_updated": "2026-05-22T05:24:19.852Z",
   "sync_status": "ok",
   "rms": [
     {
@@ -51,6 +51,20 @@
     },
     {
       "id": 90004,
+      "borrower": "002401-111 | BABY BLUE HOLDINGS PTY LTD",
+      "amount": "1320000",
+      "status": "quote-sent",
+      "bdm": "Matthew Alexander",
+      "broker": "",
+      "loanType": "default",
+      "refNo": "HS-270926566846",
+      "notes": "",
+      "createdAt": "2026-05-22",
+      "updatedAt": "2026-05-22",
+      "source": "hubspot"
+    },
+    {
+      "id": 90005,
       "borrower": "002405-111 | EDGLO PTY LTD",
       "amount": "0",
       "status": "quote-sent",
@@ -780,6 +794,14 @@
   ],
   "contacts": [
     {
+      "id": "325606463957",
+      "name": "Jay Mertens",
+      "email": "jay@moncurcap.com",
+      "phone": "+61457521642",
+      "company": "",
+      "rm": "Matthew Alexander"
+    },
+    {
       "id": "325607904721",
       "name": "Simon Loulach",
       "email": "simon@gen2build.com.au",
@@ -797,9 +819,9 @@
     }
   ],
   "stats": {
-    "total_deals": 4,
+    "total_deals": 5,
     "total_activities": 89,
-    "total_contacts": 2,
+    "total_contacts": 3,
     "rms_synced": 1
   }
 }
