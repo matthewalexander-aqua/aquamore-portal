@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T01:03:00.782Z",
+  "last_updated": "2026-05-22T01:16:35.636Z",
   "sync_status": "ok",
   "rms": [
     {
@@ -94,9 +94,49 @@
   ],
   "activity_feed": [
     {
+      "type": "meeting",
+      "date": "2026-05-22",
+      "desc": "Meeting completed",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "call",
+      "date": "2026-05-22",
+      "desc": "Call with darren.mcleod@aquamore.com.au",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
       "type": "call",
       "date": "2026-05-22",
       "desc": "Call with Michal Fort-Williams",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "email",
+      "date": "2026-05-22",
+      "desc": "Email sent",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "call",
+      "date": "2026-05-22",
+      "desc": "Call with aaron@elliotfinance.com.au",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
+    {
+      "type": "call",
+      "date": "2026-05-22",
+      "desc": "Call with david@pmadvisors.com.au",
       "broker": "",
       "bdm": "Matthew Alexander",
       "source": "hubspot"
@@ -680,7 +720,7 @@
     {
       "type": "note",
       "date": "2025-05-15",
-      "desc": "<div style=\"\" dir=\"auto\" data-top-level=\"true\"><p style=\"margin:0;\">Unable to proceed due to security property being lea",
+      "desc": "Unable to proceed due to security property being leasehold",
       "broker": "",
       "bdm": "Matthew Alexander",
       "source": "hubspot"
@@ -4826,7 +4866,7 @@
   ],
   "stats": {
     "total_deals": 6,
-    "total_activities": 81,
+    "total_activities": 86,
     "total_contacts": 510,
     "rms_synced": 1
   }
