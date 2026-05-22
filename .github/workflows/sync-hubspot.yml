@@ -1,0 +1,45 @@
+name: Sync HubSpot Data
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run HubSpot sync
+        env:
+          RM_1_TOKEN: ${{ secrets.RM_1_TOKEN }}
+          RM_1_NAME:  ${{ secrets.RM_1_NAME }}
+          # RM_2_TOKEN: ${{ secrets.RM_2_TOKEN }}
+          # RM_2_NAME:  ${{ secrets.RM_2_NAME }}
+          # RM_3_TOKEN: ${{ secrets.RM_3_TOKEN }}
+          # RM_3_NAME:  ${{ secrets.RM_3_NAME }}
+          # RM_4_TOKEN: ${{ secrets.RM_4_TOKEN }}
+          # RM_4_NAME:  ${{ secrets.RM_4_NAME }}
+          # RM_5_TOKEN: ${{ secrets.RM_5_TOKEN }}
+          # RM_5_NAME:  ${{ secrets.RM_5_NAME }}
+          # RM_6_TOKEN: ${{ secrets.RM_6_TOKEN }}
+          # RM_6_NAME:  ${{ secrets.RM_6_NAME }}
+        run: node sync.js
+
+      - name: Commit updated data.json
+        run: |
+          git config user.name  "Aquamore Sync Bot"
+          git config user.email "noreply@aquamore.com.au"
+          git add data.json
+          git diff --staged --quiet || git commit -m "sync: HubSpot update $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
