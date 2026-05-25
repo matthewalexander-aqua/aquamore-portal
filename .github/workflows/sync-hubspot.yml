@@ -1,9 +1,7 @@
 name: Sync HubSpot Data
 
 on:
-  schedule:
-    - cron: '*/5 * * * *'
-  workflow_dispatch:
+  workflow_dispatch:   # Triggered by cron-job.org every 1 minute via GitHub API
 
 jobs:
   sync:
