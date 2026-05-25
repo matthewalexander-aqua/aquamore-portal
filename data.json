@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-25T00:24:18.617Z",
+  "last_updated": "2026-05-25T00:25:18.491Z",
   "sync_status": "ok",
   "rms": [
     {
@@ -60,7 +60,7 @@
       "refNo": "HS-270805932481",
       "notes": "",
       "createdAt": "2026-05-22",
-      "updatedAt": "2026-05-22",
+      "updatedAt": "2026-05-25",
       "source": "hubspot"
     },
     {
@@ -135,6 +135,14 @@
     }
   ],
   "activity_feed": [
+    {
+      "type": "call",
+      "date": "2026-05-25",
+      "desc": "Call with Peter Campbell",
+      "broker": "",
+      "bdm": "Matthew Alexander",
+      "source": "hubspot"
+    },
     {
       "type": "meeting",
       "date": "2026-05-22",
@@ -892,7 +900,7 @@
   ],
   "stats": {
     "total_deals": 9,
-    "total_activities": 89,
+    "total_activities": 90,
     "total_contacts": 5,
     "rms_synced": 1
   }
